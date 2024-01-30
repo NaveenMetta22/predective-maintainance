@@ -43,7 +43,9 @@ plt.style.use('ggplot')  # Use 'ggplot' style for matplotlib plots
 
 ## Results
 
-Share the results of the predictive maintenance model, including performance metrics, visualizations, and insights gained from the analysis.
+Balanced Accuracy Score: 0.5688
+Accuracy Score: 0.9518
+Matthews Correlation Coefficient: 0.4955
 
 ## License
 

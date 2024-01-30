@@ -1,8 +1,3 @@
-# Predetive Maintainance
-Predective Maintainance using Machine Learning
-
-
-
 
 ---
 

@@ -43,9 +43,9 @@ plt.style.use('ggplot')  # Use 'ggplot' style for matplotlib plots
 
 ## Results
 
--Balanced Accuracy Score: 0.5688
--Accuracy Score: 0.9518
--Matthews Correlation Coefficient: 0.4955
+-**Balanced Accuracy Score: 0.5688**
+-**Accuracy Score: 0.9518**
+-**Matthews Correlation Coefficient: 0.4955**
 
 ## License
 

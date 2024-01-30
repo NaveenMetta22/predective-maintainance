@@ -1,8 +1,8 @@
-# predective-maintainance
+# Predetive Maintainance
 Predective Maintainance using Machine Learning
 
 
-Certainly! Here's a simplified README file with the essential details:
+
 
 ---
 
